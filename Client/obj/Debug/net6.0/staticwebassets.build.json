@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MRXB4BwPUgMu2eHGO6OZRMgm50U28sDUW8zxq2Ict6w=",
+  "Hash": "tVt58wLtQ+vbP9v5dEe49H8CA2EAuWe/iy3sFYW0aSc=",
   "Source": "FLN.LicenseManager.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -170,23 +170,6 @@
       "OriginalItemSpec": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Shared\\bin\\Debug\\net6.0\\FLN.LicenseManager.Shared.pdb"
     },
     {
-      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "FLN.LicenseManager.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.20\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Computed",
@@ -236,6 +219,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.20\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.20\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -6953,6 +6953,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Discovered",
@@ -7055,23 +7072,6 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "FLN.LicenseManager.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Discovered",
@@ -7106,23 +7106,6 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\favicon.ico",
-      "SourceId": "FLN.LicenseManager.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\favicon_blazor.ico",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Discovered",
@@ -7138,6 +7121,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon_blazor.ico"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\favicon.ico",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\icon-192.png",
@@ -7174,23 +7174,6 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo.png",
-      "SourceId": "FLN.LicenseManager.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "logo.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\logo.png"
-    },
-    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo_16x16.png",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Discovered",
@@ -7223,6 +7206,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo_for_ico.png"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo.png",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
     }
   ]
 }
