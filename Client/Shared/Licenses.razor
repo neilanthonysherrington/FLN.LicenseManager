@@ -1,28 +1,43 @@
-﻿
+﻿@inject ILicenseUIService LicenseUIService
+
 <h3>Licenses</h3>
 
-<table class=" table table-bordered">
-    <thead>
-        <tr>
-            <th scope="col">Customer</th>
-            <th scope="col">Application</th>
-            <th scope="col">Status</th>
-            <th scope="col">License Key</th>
-            <th scope="col">Further Details</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
-        </tr>
-    </tbody>
-</table>
+@if (LicenseUIService.Licenses == null || LicenseUIService.Licenses.Count == 0)
+{
+    <span>No Licenses Found...</span>
+}
+else
+{
+    <table class=" table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Customer</th>
+                <th scope="col">Application</th>
+                <th scope="col">Status</th>
+                <th scope="col">License Key</th>
+                <th scope="col">Further Details</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var license in LicenseUIService.Licenses)
+                {   <tr>
+                        <td>@license.Customer</td>
+                        <td>@license.Application</td>
+                        <td>@license.Status</td>
+                        <td>@license.LicenseKey</td>
+                        <td><button class="btn btn-info">Details</button></td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+}
 
 
-@code {
 
+
+    @code {
+    protected override async Task OnInitializedAsync()
+    {
+        await LicenseUIService.GetLicenses();
+    }
 }
