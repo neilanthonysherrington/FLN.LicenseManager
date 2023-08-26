@@ -1,3 +1,4 @@
+global using FLN.LicenseManager.Shared;
 using FLN.LicenseManager.Client;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
