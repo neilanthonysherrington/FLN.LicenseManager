@@ -65,12 +65,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\favicon_blazor.ico",
+      "PackagePath": "staticwebassets\\favicon_blazor.ico"
+    },
+    {
       "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
       "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo_16x16.png",
+      "PackagePath": "staticwebassets\\logo_16x16.png"
+    },
+    {
+      "Id": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo_for_ico.png",
+      "PackagePath": "staticwebassets\\logo_for_ico.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FLN.LicenseManager.Client.Microsoft.AspNetCore.StaticWebAssets.props",

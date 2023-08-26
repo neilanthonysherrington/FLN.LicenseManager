@@ -47,3 +47,7 @@ build_metadata.AdditionalFiles.CssScope = b-ewh6sg6pu4
 [C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pitqhlbjpl
+
+[C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/UserButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wwepknzha1

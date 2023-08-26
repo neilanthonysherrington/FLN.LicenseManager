@@ -826,3 +826,4 @@ C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\FLN.LicenseManage
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\refint\FLN.LicenseManager.Client.dll
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\FLN.LicenseManager.Client.pdb
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\ref\FLN.LicenseManager.Client.dll
+C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\scopedcss\Shared\UserButton.razor.rz.scp.css

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H7qthCCJuUN13jCiCJYlp1TqGkV703VwB0FEhWZseJc=",
+  "Hash": "tIBcEbFfCyNHTP/sPU6xyDCUKNbYggQjupdNlAbZ7go=",
   "Source": "FLN.LicenseManager.Server",
   "BasePath": "_content/FLN.LicenseManager.Server",
   "Mode": "Default",
@@ -7118,6 +7118,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\favicon_blazor.ico",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon_blazor.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon_blazor.ico"
+    },
+    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\icon-192.png",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Project",
@@ -7150,6 +7167,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo.png",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo_16x16.png",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo_16x16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo_16x16.png"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\logo_for_ico.png",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logo_for_ico.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo_for_ico.png"
     }
   ]
 }
