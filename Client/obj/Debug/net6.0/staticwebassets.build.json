@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MRXB4BwPUgMu2eHGO6OZRMgm50U28sDUW8zxq2Ict6w=",
+  "Hash": "gY91wgIWsPyj1IzPShEhq62izPDnlZrE9fvmrEXAa6U=",
   "Source": "FLN.LicenseManager.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.19\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\blazored.localstorage\\4.4.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.20.x80v8lz6yb.js",
@@ -253,6 +270,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -4369,6 +4403,23 @@
       "OriginalItemSpec": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.dll"
     },
     {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\obj\\Debug\\net6.0\\build-gz\\DM5BdCDW.gz",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\obj\\Debug\\net6.0\\build-gz\\DnJN+jvm.gz",
       "SourceId": "FLN.LicenseManager.Client",
       "SourceType": "Computed",
@@ -4928,6 +4979,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.dll"
+    },
+    {
+      "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\obj\\Debug\\net6.0\\build-gz\\Ig2o4Bub.gz",
+      "SourceId": "FLN.LicenseManager.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\obj\\Debug\\net6.0\\build-gz\\ig84WX9P.gz",

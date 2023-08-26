@@ -1,4 +1,9 @@
 ﻿@page "/"
 @page "/licenses"
+@attribute [Authorize]
+@inject IAuthService AuthService
 
-<Licenses />
+<AuthorizeView>
+    <Licenses />
+</AuthorizeView>
+

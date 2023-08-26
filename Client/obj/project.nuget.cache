@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QVodlcdXmubdsD6rcbKuJvCyDS3QfIqd0cJMchTxxpVJwbDC8du2kyoKctdQmnx7AlpyhHlD5QxOiXZwX7HiRQ==",
+  "dgSpecHash": "GeInfeARC8g6EYbjHDzqSQYofT0pyqW/aGH+dp540djCY8Sd0reN2navj6F8EUn96coYR64MCGqXPYwkRp3tFw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Barry\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.19\\microsoft.aspnetcore.authorization.6.0.19.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.19\\microsoft.aspnetcore.components.6.0.19.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.19\\microsoft.aspnetcore.components.analyzers.6.0.19.nupkg.sha512",
+    "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.19\\microsoft.aspnetcore.components.authorization.6.0.19.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.19\\microsoft.aspnetcore.components.forms.6.0.19.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.19\\microsoft.aspnetcore.components.web.6.0.19.nupkg.sha512",
     "C:\\Users\\Barry\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.19\\microsoft.aspnetcore.components.webassembly.6.0.19.nupkg.sha512",

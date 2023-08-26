@@ -7,8 +7,10 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-cS22FAHmrDwLTAjlZCtQiBPLSkoaKRXJSQm7xk4FaBE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-aFUXuxBgKshEkyvzJA8iKU0P+\/\/mEM1KFG+YJVs97f8=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-t70KvaUKCd47wQDMB41JcEZ1FN7JSKhbMh3Vzdae0dE=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-eP3tLMkdWuhMJ9GaHIuXGNbINEWgwiRqWQGUzdecjPM=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-xMGaKfm\/S2I6fON3+BXjhvr1kt2ZxbnGOoWFOLnsKiA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-ogIhaWO1MfOl5TMYFOiVi3Uza4nLo+EE\/Ded2VTgz54=",
@@ -196,15 +198,15 @@
       "mscorlib.dll": "sha256-j4L8eYEbpTL2UGB4uTT5qwkcqJsmB46NkVr5uesXgJI=",
       "netstandard.dll": "sha256-2M8m82GceNG8Z8I4dD74L7Tl4vwXdwXcVpYN80ouzQA=",
       "System.Private.CoreLib.dll": "sha256-dFxocfrY9q0E7UJ6nBlyNfnWYTyPu3RKzSggfRhoPJY=",
-      "FLN.LicenseManager.Shared.dll": "sha256-BX\/DH7SDGiY0ZXfef1uWmEIL0N9svxJyThSmxlQHlKQ=",
-      "FLN.LicenseManager.Client.dll": "sha256-UE8zsQkrps4\/GMF9A4sF0NI6I5xHupKvD4o8z\/JdKMs="
+      "FLN.LicenseManager.Shared.dll": "sha256-NbcEG0OHbitOEYCyXKvGtd8pw951SLUKuBOwHPajUzs=",
+      "FLN.LicenseManager.Client.dll": "sha256-qsXwUApC7XquE0xnzmxeQJrDZ71\/VCDgHMj10+3hKcI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "FLN.LicenseManager.Shared.pdb": "sha256-dnQ06ycd7paumG4smISF9GaIraowpT8WnOvrKcivBzI=",
-      "FLN.LicenseManager.Client.pdb": "sha256-aeUUkk3gpQHtLEBGmFIaOd5wF+Q19uaVwZyH\/amkInk="
+      "FLN.LicenseManager.Shared.pdb": "sha256-01fnlw6WEsnJSdxLcbCcaTO0ZAEK2RWcsWfSId2tA8I=",
+      "FLN.LicenseManager.Client.pdb": "sha256-4gHD44WNXKl0UxnWzw6OYx5afm9Q1cn7Ei\/shhwMgG8="
     },
     "runtime": {
       "dotnet.6.0.20.x80v8lz6yb.js": "sha256-iXtnf0CK+zdIWjR0cpE38tWChIpNC6sO+aSQAW+aBQU=",

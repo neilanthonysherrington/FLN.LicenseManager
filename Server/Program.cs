@@ -1,5 +1,6 @@
 global using FLN.LicenseManager.Shared;
 using FLN.LicenseManager.Server.Data;
+using FLN.LicenseManager.Server.Services.AuthService;
 using FLN.LicenseManager.Server.Services.LicenseUIService;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ILicenseUIService, LicenseUIService>();
 
 var app = builder.Build();

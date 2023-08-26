@@ -1,7 +1,3 @@
-.show-menu[b-wwepknzha1] {
-    display: block;
-}
-
 .user-button[b-wwepknzha1] {
     /*margin-left: 0;
     margin-right: 0;*/
@@ -11,8 +7,4 @@
 
 .top-row a[b-wwepknzha1] {
     margin-left: 0;
-}
-
-.dropdown-item:hover[b-wwepknzha1] {
-    background-color: white;
 }

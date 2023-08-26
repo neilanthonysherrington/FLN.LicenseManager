@@ -827,3 +827,11 @@ C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\refint\FLN.Licens
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\FLN.LicenseManager.Client.pdb
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\ref\FLN.LicenseManager.Client.dll
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\scopedcss\Shared\UserButton.razor.rz.scp.css
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\build-gz\Ig2o4Bub.gz
+C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\build-gz\DM5BdCDW.gz
