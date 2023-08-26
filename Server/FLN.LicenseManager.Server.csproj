@@ -15,5 +15,9 @@
     <ProjectReference Include="..\Shared\FLN.LicenseManager.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 
 </Project>
