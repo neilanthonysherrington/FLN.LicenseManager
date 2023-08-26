@@ -1,0 +1,12 @@
+C:\Dev\source\repos\FLN.LicenseManager\Shared\bin\Debug\net6.0\FLN.LicenseManager.Shared.deps.json
+C:\Dev\source\repos\FLN.LicenseManager\Shared\bin\Debug\net6.0\FLN.LicenseManager.Shared.dll
+C:\Dev\source\repos\FLN.LicenseManager\Shared\bin\Debug\net6.0\FLN.LicenseManager.Shared.pdb
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.csproj.AssemblyReference.cache
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.AssemblyInfoInputs.cache
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.AssemblyInfo.cs
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.csproj.CoreCompileInputs.cache
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.dll
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\refint\FLN.LicenseManager.Shared.dll
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\FLN.LicenseManager.Shared.pdb
+C:\Dev\source\repos\FLN.LicenseManager\Shared\obj\Debug\net6.0\ref\FLN.LicenseManager.Shared.dll
