@@ -1,4 +1,5 @@
 ﻿using FLN.LicenseManager.Server.Services.LicenseUIService;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,6 +7,7 @@ namespace FLN.LicenseManager.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //[Authorize]
     public class LicenseUIController : ControllerBase
     {
         private readonly ILicenseUIService _licenseUIService;
