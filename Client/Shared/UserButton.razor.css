@@ -3,6 +3,15 @@
     margin-right: 0;*/
     background-color: #ed7402;
     border: none;
+    box-shadow: none;
+}
+
+.user-button:focus {
+    box-shadow: none;
+}
+
+.login-text-btn {
+    width: 4rem;
 }
 
 .top-row a {

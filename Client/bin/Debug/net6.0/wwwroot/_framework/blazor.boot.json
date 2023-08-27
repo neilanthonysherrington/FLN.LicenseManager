@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-2M8m82GceNG8Z8I4dD74L7Tl4vwXdwXcVpYN80ouzQA=",
       "System.Private.CoreLib.dll": "sha256-dFxocfrY9q0E7UJ6nBlyNfnWYTyPu3RKzSggfRhoPJY=",
       "FLN.LicenseManager.Shared.dll": "sha256-NbcEG0OHbitOEYCyXKvGtd8pw951SLUKuBOwHPajUzs=",
-      "FLN.LicenseManager.Client.dll": "sha256-qsXwUApC7XquE0xnzmxeQJrDZ71\/VCDgHMj10+3hKcI="
+      "FLN.LicenseManager.Client.dll": "sha256-ZjlygPiHCjusxqU3GkcqstxDZpO2FwrMSiXHUAYUFME="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "FLN.LicenseManager.Shared.pdb": "sha256-01fnlw6WEsnJSdxLcbCcaTO0ZAEK2RWcsWfSId2tA8I=",
-      "FLN.LicenseManager.Client.pdb": "sha256-4gHD44WNXKl0UxnWzw6OYx5afm9Q1cn7Ei\/shhwMgG8="
+      "FLN.LicenseManager.Client.pdb": "sha256-zlb0ghTh6ZyuInIKhY\/c72WxHNsNaEvQE+gQSSqKK1I="
     },
     "runtime": {
       "dotnet.6.0.20.x80v8lz6yb.js": "sha256-iXtnf0CK+zdIWjR0cpE38tWChIpNC6sO+aSQAW+aBQU=",

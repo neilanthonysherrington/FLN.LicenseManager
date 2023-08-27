@@ -4,14 +4,20 @@
 
 <AuthorizeView>
     <Authorized>
-        <button @onclick="Logout" class="btn btn-secondary user-button">
-            <i class="oi oi-account-logout"></i>
-        </button>
+        <div class="btn-group" role="group">
+            <button @onclick="Logout" type="button" class="btn btn-secondary user-button login-text-btn">Logout</button>
+            <button @onclick="Logout" type="button" class="btn btn-secondary user-button">
+                <i class="oi oi-account-logout"></i>
+            </button>
+        </div>
     </Authorized>
     <NotAuthorized>
-        <a href="login" class="btn btn-secondary user-button">
-            <i class="oi oi-account-login"></i>
-        </a>
+        <div class="btn-group" role="group">
+            <button @onclick="NavigateLogin" type="button" class="btn btn-secondary user-button login-text-btn">Login</button>
+            <button @onclick="NavigateLogin" type="button" class="btn btn-secondary user-button">
+                <i class="oi oi-account-login"></i>
+            </button>
+        </div>
     </NotAuthorized>
 </AuthorizeView>
 
@@ -20,7 +26,10 @@
 
 
 @code {
-   
+    private void NavigateLogin()
+    {
+        NavigationManager.NavigateTo("/login");
+    }
 
    
 
