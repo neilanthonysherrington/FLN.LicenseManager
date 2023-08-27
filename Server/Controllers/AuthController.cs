@@ -1,5 +1,4 @@
 ﻿using FLN.LicenseManager.Server.Services.AuthService;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FLN.LicenseManager.Server.Controllers
