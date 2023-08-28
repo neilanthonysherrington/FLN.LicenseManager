@@ -1,3 +1,14 @@
+/* /Shared/Licenses.razor.rz.scp.css */
+.primary-button[b-23ydz3ljbc] {
+    background-color: #ED7402;
+    color: #fff;
+    border-style: none;
+}
+
+.secondary-button[b-23ydz3ljbc] {
+    background-color: #3AABB0;
+    color: #fff;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-ewh6sg6pu4] {
     position: relative;

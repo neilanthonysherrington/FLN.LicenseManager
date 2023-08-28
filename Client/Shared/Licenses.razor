@@ -1,10 +1,10 @@
 ﻿@inject ILicenseUIService LicenseUIService
 
-<h3>Licenses</h3>
+<button class="btn btn-primary primary-button my-5">Generate License</button>
 
 @if (LicenseUIService.Licenses == null || LicenseUIService.Licenses.Count == 0)
 {
-    <span>No Licenses Found...</span>
+    <span>Fetching Licenses...</span>
 }
 else
 {
@@ -25,7 +25,7 @@ else
                         <td>@license.Application</td>
                         <td>@license.Status</td>
                         <td>@license.LicenseKey</td>
-                        <td><button class="btn btn-info">Details</button></td>
+                        <td><button class="btn btn-info secondary-button">Details</button></td>
                     </tr>
                 }
         </tbody>

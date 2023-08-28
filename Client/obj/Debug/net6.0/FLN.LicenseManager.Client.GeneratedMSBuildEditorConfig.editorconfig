@@ -32,13 +32,13 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/Licenses.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpY2Vuc2VzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Dev/source/repos/FLN.LicenseManager/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/Licenses.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpY2Vuc2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-23ydz3ljbc
 
 [C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
