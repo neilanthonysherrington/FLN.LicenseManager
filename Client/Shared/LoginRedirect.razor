@@ -1,0 +1,12 @@
+﻿@inject NavigationManager NavigationManager
+
+@code {
+    protected override void OnInitialized()
+    {
+        //if (await AuthenticationStateProvider.GetAuthenticationStateAsync() == null)
+        //    NavigationManager.NavigateTo("/login");
+
+        NavigationManager.NavigateTo("/login");
+       
+    }
+}

@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Dev/source/repos/FLN.LicenseManager/Client/Shared/LoginRedirect.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luUmVkaXJlY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Dev/source/repos/FLN.LicenseManager/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

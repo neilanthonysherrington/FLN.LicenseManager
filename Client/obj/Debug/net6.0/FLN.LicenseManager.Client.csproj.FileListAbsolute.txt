@@ -835,3 +835,4 @@ C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\Blazored.LocalSto
 C:\Dev\source\repos\FLN.LicenseManager\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\build-gz\Ig2o4Bub.gz
 C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\build-gz\DM5BdCDW.gz
+C:\Dev\source\repos\FLN.LicenseManager\Client\obj\Debug\net6.0\scopedcss\Shared\Licenses.razor.rz.scp.css

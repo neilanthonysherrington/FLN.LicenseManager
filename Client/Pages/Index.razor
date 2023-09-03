@@ -2,8 +2,14 @@
 @page "/licenses"
 @attribute [Authorize]
 @inject IAuthService AuthService
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
 
 <AuthorizeView>
     <Licenses />
 </AuthorizeView>
+
+@code {
+    
+}
 
