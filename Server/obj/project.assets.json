@@ -2893,19 +2893,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Barry\\.nuget\\packages\\": {}
+    "C:\\Users\\neils\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
+      "projectUniqueName": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
       "projectName": "FLN.LicenseManager.Server",
-      "projectPath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
-      "packagesPath": "C:\\Users\\Barry\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Server\\obj\\",
+      "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
+      "packagesPath": "C:\\Users\\neils\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Barry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\neils\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2913,18 +2913,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
-              "projectPath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj"
+            "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
+              "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj"
             },
-            "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
-              "projectPath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
+            "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
+              "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
             }
           }
         }
@@ -2981,7 +2980,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -29,10 +29,10 @@ else
                                 @bind-value="customerFilterText"
                                 @bind-value:event="onchange"
                         >
-                        <button class="btn btn-outline-secondary" type="button" @onclick="FilterByCustomer">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => FilterBy("customer"))">
                             <i class="oi oi-magnifying-glass"></i>
                         </button>
-                        <button class="btn btn-outline-secondary" type="button" @onclick="ClearCustomerFilter">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => ClearFilter("customer"))">
                             <i class="oi oi-circle-x"></i>
                         </button>
                     </div>
@@ -45,10 +45,10 @@ else
                                 @bind-value="applicationFilterText"
                                 @bind-value:event="onchange" 
                         >
-                        <button class="btn btn-outline-secondary" type="button" @onclick="FilterByApplication">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => FilterBy("application"))">
                             <i class="oi oi-magnifying-glass"></i>
                         </button>
-                        <button class="btn btn-outline-secondary" type="button" @onclick="ClearApplicationFilter">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => ClearFilter("application"))">
                             <i class="oi oi-circle-x"></i>
                         </button>
                     </div>
@@ -61,10 +61,10 @@ else
                                 @bind-value="statusFilterText"
                                 @bind-value:event="onchange"
                         >
-                        <button class="btn btn-outline-secondary" type="button" @onclick="FilterByStatus">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => FilterBy("status"))">
                             <i class="oi oi-magnifying-glass"></i>
                         </button>
-                        <button class="btn btn-outline-secondary" type="button" @onclick="ClearStatusFilter">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => ClearFilter("status"))">
                             <i class="oi oi-circle-x"></i>
                         </button>
                     </div>
@@ -77,10 +77,10 @@ else
                                 @bind-value="keyFilterText"
                                 @bind-value:event="onchange"
                         >
-                        <button class="btn btn-outline-secondary" type="button" @onclick="FilterByKey">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => FilterBy("key"))">
                             <i class="oi oi-magnifying-glass"></i>
                         </button>
-                        <button class="btn btn-outline-secondary" type="button" @onclick="ClearKeyFilter">
+                        <button class="btn btn-outline-secondary" type="button" @onclick="@(x => ClearFilter("key"))">
                             <i class="oi oi-circle-x"></i>
                         </button>
                     </div>
@@ -110,61 +110,35 @@ else
         await LicenseUIService.GetLicenses();
     }
 
-    //private void HandleCustomerFilter(KeyboardEventArgs args)
-    //{
-    //    FilterByCustomer();
-    //}
-
     private string customerFilterText = string.Empty;
     private string applicationFilterText = string.Empty;
     private string statusFilterText = string.Empty;
     private string keyFilterText = string.Empty;
 
-    private void FilterByCustomer()
+    private void FilterBy(string column)
     {
-        var filter = LicenseUIService.Licenses.Where(l => l.Customer.ToLower().Contains(customerFilterText.ToLower())).ToList();
+        var filterText = string.Empty;
+        switch (column)
+        {
+            case "customer" :
+                filterText = customerFilterText;
+                break;
+            case "application" :
+                filterText = applicationFilterText;
+                break;
+        }
+
+        var filter = LicenseUIService.Licenses.Where(l => l.Customer.ToLower().Contains(filterText.ToLower())).ToList();
         LicenseUIService.Licenses = filter;
     }
 
-    private void FilterByApplication()
+    private async Task ClearFilter(string column)
     {
-        var filter = LicenseUIService.Licenses.Where(l => l.Application.ToLower().Contains(applicationFilterText.ToLower())).ToList();
-        LicenseUIService.Licenses = filter;
-    }
-
-    private void FilterByStatus()
-    {
-        var filter = LicenseUIService.Licenses.Where(l => l.Status.ToLower().Contains(statusFilterText.ToLower())).ToList();
-        LicenseUIService.Licenses = filter;
-    }
-
-    private void FilterByKey()
-    {
-        var filter = LicenseUIService.Licenses.Where(l => l.LicenseKey.ToLower().Contains(keyFilterText.ToLower())).ToList();
-        LicenseUIService.Licenses = filter;
-    }
-
-    private async Task ClearCustomerFilter()
-    {
-        await LicenseUIService.GetLicenses();
         customerFilterText = string.Empty;
-    }
 
-    private async Task ClearApplicationFilter()
-    {
-        await LicenseUIService.GetLicenses();
-        applicationFilterText = string.Empty;
-    }
 
-    private async Task ClearStatusFilter()
-    {
-        await LicenseUIService.GetLicenses();
-        statusFilterText = string.Empty;
-    }
 
-    private async Task ClearKeyFilter()
-    {
         await LicenseUIService.GetLicenses();
-        keyFilterText = string.Empty;
+        
     }
 }

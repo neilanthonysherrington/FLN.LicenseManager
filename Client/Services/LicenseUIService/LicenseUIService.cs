@@ -15,6 +15,7 @@ namespace FLN.LicenseManager.Client.Services.LicenseUIService
         public async Task GetLicenses()
         {
             var result = await _http.GetFromJsonAsync<ServiceResponse<List<License>>>("api/licenseui");
+
             if (result != null && result.Data != null)
             {
                 Licenses = result.Data;

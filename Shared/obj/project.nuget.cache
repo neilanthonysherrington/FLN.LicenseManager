@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIt9l1VKIt4W31bFv2gCKyf0p/VzMJp46779uqrBZitUo0qMizThJGjR4OUNYYCWYtTMgIjiX6oMLb/CAwGL3g==",
+  "dgSpecHash": "+4kkbWz0puIMil1IpuC2RKcdF9BRq38+ShhhJyKzCK6z/3Oqe1mkz9ap+x/5PewpEDeD23IxCCgaaZa0hyhVkQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\source\\repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
+  "projectFilePath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
