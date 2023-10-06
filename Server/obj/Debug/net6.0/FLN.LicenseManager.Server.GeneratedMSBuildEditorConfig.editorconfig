@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FLN.LicenseManager.Server
 build_property.RootNamespace = FLN.LicenseManager.Server
-build_property.ProjectDir = C:\Code\Repos\FLN.LicenseManager\Server\
+build_property.ProjectDir = C:\Code\FLN.LicenseManager\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Code\Repos\FLN.LicenseManager\Server
+build_property.MSBuildProjectDirectory = C:\Code\FLN.LicenseManager\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Code/Repos/FLN.LicenseManager/Server/Pages/Error.cshtml]
+[C:/Code/FLN.LicenseManager/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

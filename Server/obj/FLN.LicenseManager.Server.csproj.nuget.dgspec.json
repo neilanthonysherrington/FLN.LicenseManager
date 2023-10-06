@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj": {}
+    "C:\\Code\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
+    "C:\\Code\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj",
+        "projectUniqueName": "C:\\Code\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj",
         "projectName": "FLN.LicenseManager.Client",
-        "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj",
-        "packagesPath": "C:\\Users\\neils\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\obj\\",
+        "projectPath": "C:\\Code\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj",
+        "packagesPath": "C:\\Users\\neil.sherrington\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\FLN.LicenseManager\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\neils\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\neil.sherrington\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
-                "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
+              "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
+                "projectPath": "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
               }
             }
           }
@@ -76,7 +76,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.16, 6.0.16]"
+              "version": "[6.0.22, 6.0.22]"
             }
           ],
           "frameworkReferences": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -93,17 +93,17 @@
         }
       }
     },
-    "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj": {
+    "C:\\Code\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
+        "projectUniqueName": "C:\\Code\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
         "projectName": "FLN.LicenseManager.Server",
-        "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
-        "packagesPath": "C:\\Users\\neils\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Server\\obj\\",
+        "projectPath": "C:\\Code\\FLN.LicenseManager\\Server\\FLN.LicenseManager.Server.csproj",
+        "packagesPath": "C:\\Users\\neil.sherrington\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\FLN.LicenseManager\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\neils\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\neil.sherrington\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,11 +117,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
-                "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj"
+              "C:\\Code\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj": {
+                "projectPath": "C:\\Code\\FLN.LicenseManager\\Client\\FLN.LicenseManager.Client.csproj"
               },
-              "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
-                "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
+              "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
+                "projectPath": "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj"
               }
             }
           }
@@ -178,21 +178,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
+    "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
+        "projectUniqueName": "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
         "projectName": "FLN.LicenseManager.Shared",
-        "projectPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
-        "packagesPath": "C:\\Users\\neils\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Repos\\FLN.LicenseManager\\Shared\\obj\\",
+        "projectPath": "C:\\Code\\FLN.LicenseManager\\Shared\\FLN.LicenseManager.Shared.csproj",
+        "packagesPath": "C:\\Users\\neil.sherrington\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\FLN.LicenseManager\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\neils\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\neil.sherrington\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -233,7 +233,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

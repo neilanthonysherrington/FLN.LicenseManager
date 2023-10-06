@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = FLN.LicenseManager.Client
 build_property.RootNamespace = FLN.LicenseManager.Client
-build_property.ProjectDir = C:\Code\Repos\FLN.LicenseManager\Client\
+build_property.ProjectDir = C:\Code\FLN.LicenseManager\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Code\Repos\FLN.LicenseManager\Client
+build_property.MSBuildProjectDirectory = C:\Code\FLN.LicenseManager\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/App.razor]
+[C:/Code/FLN.LicenseManager/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Pages/Index.razor]
+[C:/Code/FLN.LicenseManager/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Pages/Login.razor]
+[C:/Code/FLN.LicenseManager/Client/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Pages/Register.razor]
+[C:/Code/FLN.LicenseManager/Client/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Shared/LoginRedirect.razor]
+[C:/Code/FLN.LicenseManager/Client/Shared/LoginRedirect.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luUmVkaXJlY3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/_Imports.razor]
+[C:/Code/FLN.LicenseManager/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Shared/Licenses.razor]
+[C:/Code/FLN.LicenseManager/Client/Shared/Licenses.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpY2Vuc2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-23ydz3ljbc
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Shared/MainLayout.razor]
+[C:/Code/FLN.LicenseManager/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ewh6sg6pu4
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Shared/NavMenu.razor]
+[C:/Code/FLN.LicenseManager/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pitqhlbjpl
 
-[C:/Code/Repos/FLN.LicenseManager/Client/Shared/UserButton.razor]
+[C:/Code/FLN.LicenseManager/Client/Shared/UserButton.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJCdXR0b24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-wwepknzha1
