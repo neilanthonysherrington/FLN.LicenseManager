@@ -15,7 +15,10 @@ namespace FLN.LicenseManager.Server.Services.LicenseUIService
         {
             var response = new ServiceResponse<List<License>>
             {
-                Data = await _dataContext.Licenses.Where(x => x.Customer.Contains(" A")).ToListAsync()
+                // example with filter
+                //Data = await _dataContext.Licenses.Where(x => x.Customer.Contains(" A")).ToListAsync()
+
+                Data = await _dataContext.Licenses.ToListAsync()
             };
 
             return response;
